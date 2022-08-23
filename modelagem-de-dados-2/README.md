@@ -1,4 +1,6 @@
-# anotações gerais a respeito do curso
+# anotações gerais
+
+[Referência](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado)
 
 Um banco de dados é uma serie de arquivos que vão se alterando conforme o banco de dados
 é manipulado.
