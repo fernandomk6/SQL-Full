@@ -22,3 +22,7 @@ para conectar ao mysql. Depois para logar no banco de dados basta executar o com
 ## Verificando a estrutura das tabelas
 
 `DESC <table>`
+
+## Verificando bancos de dados criados
+
+`SHOW DATABASES`
