@@ -17,6 +17,8 @@
 
 - Junção
 
+  Básicoamento os `JOINs`.
+  
   Uni o erganiza os dados selecionados pela seleção e organiza na projeção.
 
 O SELECT faz parte da projeção
