@@ -56,3 +56,8 @@ e das colunas.
 É importante salientar que, no modelo lógico não devemos nos preocupar com as particularidades do
 sofware escolhido, isso acontecerá na proxima etapa: Modelo físico. Onde traduziremos o modelo
 lógico para as particularidades da linguagem do software escolhido.
+
+## Dica de ouro
+
+Ao trabalhar com banco de dados relacional tente sempre usar o terminal,
+evite usar uma interface gráfica. 
